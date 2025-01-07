@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on HHGCL-EMS<br>Fullstack apps (Hybrid Mobile, Native Android, Web apps)<br>I'm currently learning ML (Harvard University by Mat. ng)<br>Ask me about ML | Kotlin | Jetpack Compose | Python | React | React Native <br>Fun fact: I'm quite funny and lovely to work with 
+I'm currently working at MTN<br>Fullstack apps (Hybrid Mobile, Native Android, Web apps)<br>I'm currently learning ML (Harvard University by Mat. ng)<br>Ask me about ML | Kotlin | Jetpack Compose | Python | React | React Native <br>Fun fact: I'm quite funny and lovely to work with 
 
 
 ## 🌐 Socials:
